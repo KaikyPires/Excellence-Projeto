@@ -1,4 +1,4 @@
-# Projeto Pizzaria
+# Pizzaria Excellence
 
 ## Descrição
 Este é um projeto prático de Programação Orientada a Objetos (POO) desenvolvido durante o curso de Sistemas de Informação. O sistema é para uma pizzaria e está integrado ao banco de dados PostgreSQL. Ele possui funcionalidades para gerenciar a home page, a área dos funcionários e a gerência.
